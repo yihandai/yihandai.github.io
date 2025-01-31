@@ -1,1 +1,3 @@
+User-agent: *
+Disallow:
 Sitemap: https://yihandai.github.io/sitemap.xml
