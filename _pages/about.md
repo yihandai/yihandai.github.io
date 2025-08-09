@@ -27,7 +27,9 @@ A data-driven personal website
         {% continue %}
       {% endif %}
       {% unless title_shown %}
+        <div>
         <h2>{{ category[1].title }}</h2><hr />
+        </div>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
