@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: archive
 ---
 
 I am a first year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)]("http://www.iscas.ac.cn"). Before that, I got my Bachelor degree at [Wuhan University of Technology]("https://www.whut.edu.cn"). My research interests lie in reinforcement learning, VLN and explainable AI. I am passionate about developing reliable and efficient agents.
