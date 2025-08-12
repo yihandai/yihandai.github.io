@@ -12,8 +12,8 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
 
 ## Publications
 
-<img src="images/hat/hat_demo.png" 
-     alt="Humanoid Policy Demo" 
+<img src="images/StaRNet-1.png" 
+     alt="StaRNet framework" 
      width="45%" 
      style="border-radius:15px; float:left; margin-right:15px;">
 ### [Motion-Consistent Representation Learning for UAV-Based Action Recognition](https://ieeexplore.ieee.org/document/11122427/)
