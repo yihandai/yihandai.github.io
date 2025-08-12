@@ -28,7 +28,6 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
         Motion-Consistent Representation Learning for UAV-Based Action Recognition
       </a>
     </h3>
-    <br />
     <strong>Authors:</strong> Wenxuan Liu*, Xian Zhong†, Yihan Dai*, Xuemei Jia, Zheng Wang, Shin’ichi Satoh<br />
     <strong>Year:</strong> 2025<br />
     <a href="https://ieeexplore.ieee.org/document/11122427/">Webpage</a><br />
