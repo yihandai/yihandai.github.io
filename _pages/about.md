@@ -36,3 +36,11 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
 
 </div>
 
+## Publications
+
+| ![StaRNet framework](images/StaRNet-1.png) | ### [Motion-Consistent Representation Learning for UAV-Based Action Recognition](https://ieeexplore.ieee.org/document/11122427/)  
+**Authors:** Wenxuan Liu\*, Xian Zhong†, Yihan Dai\*, Xuemei Jia, Zheng Wang, Shin’ichi Satoh  
+**Year:** 2025  
+[Webpage](https://ieeexplore.ieee.org/document/11122427/) |
+|---|---|
+
