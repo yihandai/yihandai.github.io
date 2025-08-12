@@ -12,16 +12,14 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
 
 ## Publications
 
-<video playsinline autoplay loop muted 
-       src="images/hat/hat_demo.mp4" 
-       poster="./images/loading-icon.gif" 
-       alt="sym" width="45%" 
-       style="border-radius:15px; float:left; margin-right:15px;">
-</video>
-
+<img src="images/hat/hat_demo.png" 
+     alt="Humanoid Policy Demo" 
+     width="45%" 
+     style="border-radius:15px; float:left; margin-right:15px;">
 ### [Motion-Consistent Representation Learning for UAV-Based Action Recognition](https://ieeexplore.ieee.org/document/11122427/)
 
 **Authors:** Wenxuan Liu\*, Xian Zhong†, Yihan Dai\*, Xuemei Jia, Zheng Wang, Shin’ichi Satoh
+
 **Year:** 2025
 
 [Webpage](https://ieeexplore.ieee.org/document/11122427/) | 
