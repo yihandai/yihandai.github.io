@@ -20,23 +20,25 @@ Publications
            src="images/hat/hat_demo.mp4" 
            poster="./images/loading-icon.gif" 
            alt="sym" width="90%" 
-           style="padding-top:0px;padding-bottom:0px;border-radius:15px;">
+           style="border-radius:15px;">
     </video>
   </a>
 </td>
 <td width="60%" valign="top">
 
-### [Humanoid Policy ~ Human Policy](https://human-as-robot.github.io/)
+## [Humanoid Policy ~ Human Policy](https://human-as-robot.github.io/)
 
-Ri-Zhao Qiu\*, Shiqi Yang\*, Xuxin Cheng\*, Chaitanya Chawla, Jialong Li, Tairan He, Ge Yan, David J. Yoon, Ryan Hoque, Lars Paulsen, Ge Yang, Jian Zhang, Sha Yi, Guanya Shi, Xiaolong Wang  
-2025
+**Authors:** Ri-Zhao Qiu\*, Shiqi Yang\*, Xuxin Cheng\*, Chaitanya Chawla,  
+Jialong Li, Tairan He, Ge Yan, David J. Yoon, Ryan Hoque, Lars Paulsen,  
+Ge Yang, Jian Zhang, Sha Yi, Guanya Shi, Xiaolong Wang  
+**Year:** 2025
 
-[webpage](https://human-as-robot.github.io/) | 
-[pdf](https://arxiv.org/pdf/2503.13441) | 
-[abstract](#hat-abstract) | 
-[bibtex](#hat-bibtex) | 
+[Webpage](https://human-as-robot.github.io/) | 
+[PDF](https://arxiv.org/pdf/2503.13441) | 
+[Abstract](#hat-abstract) | 
+[BibTeX](#hat-bibtex) | 
 [arXiv](https://arxiv.org/abs/2503.13441) | 
-[code](https://github.com/RogerQi/human-policy)
+[Code](https://github.com/RogerQi/human-policy)
 
 ---
 
@@ -53,5 +55,5 @@ Ri-Zhao Qiu\*, Shiqi Yang\*, Xuxin Cheng\*, Chaitanya Chawla, Jialong Li, Tairan
   journal={arXiv preprint arXiv:2503.13441},
   year={2025}
 }
-
+</td> </tr> </table> 
 
