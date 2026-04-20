@@ -35,7 +35,7 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
 
   <!-- Left side -->
   <div style="flex: 1; max-width: 40%;">
-    <img src="images/StaRNet-1.png" 
+    <img src="images/acl_overview.png" 
          alt="StaRNet framework" 
          style="width: 100%; border-radius: 15px;">
   </div>
