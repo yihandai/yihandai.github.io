@@ -54,6 +54,26 @@ When you are initially working on your website, it is very useful to be able to 
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+## Git helper scripts
+
+This repository includes two helper scripts under `scripts/` for common sync tasks:
+
+```bash
+./scripts/git_fetch.sh
+./scripts/git_upload.sh "update homepage publications"
+```
+
+`git_fetch.sh` fetches the current branch from `origin` by default and shows your local status plus incoming commits.
+
+`git_upload.sh` stages modified files and new files, creates a commit using the description you pass in, and pushes to the current branch. It ignores `.DS_Store` automatically.
+
+You can also override the remote and branch:
+
+```bash
+./scripts/git_fetch.sh origin main
+./scripts/git_upload.sh "refine homepage layout" origin main
+```
+
 ## Using Docker
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
