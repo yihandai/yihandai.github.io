@@ -8,7 +8,7 @@ redirect_from:
 layout: archive
 ---
 
-I am a first year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn). Before that, I got my Bachelor degree at [Wuhan University of Technology](https://www.whut.edu.cn). My research interests lie in reinforcement learning, VLN and explainable AI. I am passionate about developing reliable and efficient agents.
+I am a first year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn). Before that, I got my Bachelor degree at [Wuhan University of Technology](https://www.whut.edu.cn). My research interests lie in large language models and interpretability, with a particular focus on understanding their internal mechanisms and building reliable, interpretable agents. I am currently applying for PhD positions in machine learning and large language models starting in 2028.
 
 <style>
   .publication-item {
