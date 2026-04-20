@@ -33,6 +33,25 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
     <a href="https://ieeexplore.ieee.org/document/11122427/">Webpage</a><br />
   </div>
 
+  <!-- Left side -->
+  <div style="flex: 1; max-width: 40%;">
+    <img src="images/StaRNet-1.png" 
+         alt="StaRNet framework" 
+         style="width: 100%; border-radius: 15px;">
+  </div>
+
+  <!-- Right side -->
+  <div style="flex: 2;">
+    <h3 style="margin-top: 0;">
+      <a href="https://openreview.net/forum?id=mGlrAyVq38#discussion">
+        DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents
+      </a>
+    </h3>
+    Yawen Wang, Yihan Dai, Jianming Chen, Junjie Wang, Qing Wang<br />
+    ACL 2026<br />
+    <a href="https://openreview.net/forum?id=mGlrAyVq38#discussion">Webpage</a><br />
+  </div>
+  
 </div>
 
 
