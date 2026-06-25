@@ -63,7 +63,7 @@ I am a second year Master student at the [Institute of Software, Chinese Academy
     </h3>
     Wenxuan Liu*, Xian Zhong†, Yihan Dai*, Xuemei Jia, Zheng Wang, Shin’ichi Satoh<br />
     T-ITS 2025<br />
-    <a href="https://ieeexplore.ieee.org/document/11122427/">Webpage</a><br />
+    <a href="https://ieeexplore.ieee.org/document/11122427/">Webpage</a> | <a href="files/paper.pdf">PDF</a><br />
   </div>
 </div>
 
@@ -84,7 +84,7 @@ I am a second year Master student at the [Institute of Software, Chinese Academy
     </h3>
     Yawen Wang, Yihan Dai, Jianming Chen, Junjie Wang, Qing Wang<br />
     ACL 2026<br />
-    <a href="https://aclanthology.org/2026.acl-long.1363/">Webpage</a><br />
+    <a href="https://aclanthology.org/2026.acl-long.1363/">Webpage</a> | <a href="https://aclanthology.org/2026.acl-long.1363.pdf">PDF</a><br />
   </div>
 </div>
 
