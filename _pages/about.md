@@ -10,6 +10,23 @@ layout: archive
 
 I am a second year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn), working under the supervision of [Junjie Wang](https://junjiewangiscas.github.io/). Before that, I got my Bachelor degree at [Wuhan University of Technology](https://www.whut.edu.cn). My research interests lie in large language models and interpretability, with a particular focus on understanding their internal mechanisms and building reliable, interpretable agents. I am currently applying for PhD positions in machine learning and large language models starting in 2028.
 
+<p style="margin-top: 0.5em;">
+  <a href="https://scholar.google.com/citations?user=evwzw60AAAAJ&hl=en" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
+    📊 <strong>Google Scholar</strong>: <span id="scholar-citedby">—</span> citations, h-index: <span id="scholar-hindex">—</span>, i10-index: <span id="scholar-i10">—</span>
+  </a>
+</p>
+
+<script>
+fetch('/scholar_stats.json')
+  .then(r => r.json())
+  .then(d => {
+    document.getElementById('scholar-citedby').textContent = d.citedby;
+    document.getElementById('scholar-hindex').textContent   = d.hindex;
+    document.getElementById('scholar-i10').textContent      = d.i10index;
+  })
+  .catch(() => { /* leave placeholder on failure */ });
+</script>
+
 <style>
   .publication-item {
     display: flex;
