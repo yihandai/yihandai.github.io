@@ -50,7 +50,7 @@ I am a second year Master student at the [Institute of Software, Chinese Academy
 
   <!-- Left side -->
   <div class="publication-item__image">
-    <img src="images/StaRNet-1.png" 
+    <img src="images/StaRNet-1.jpg" 
          alt="StaRNet framework">
   </div>
 
@@ -71,7 +71,7 @@ I am a second year Master student at the [Institute of Software, Chinese Academy
 
   <!-- Left side -->
   <div class="publication-item__image">
-    <img src="images/acl_overview.png" 
+    <img src="images/acl_overview.jpg" 
          alt="DEFT overview">
   </div>
 

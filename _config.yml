@@ -22,7 +22,7 @@ repository               : "yihandai/yihandai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yihan Dai 代易函"
   pronouns         : # example: "she/her"  
   bio              : "Master at Institute of Software, Chinese Academy of Sciences"
