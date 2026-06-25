@@ -8,7 +8,7 @@ redirect_from:
 layout: archive
 ---
 
-I am a first year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn). Before that, I got my Bachelor degree at [Wuhan University of Technology](https://www.whut.edu.cn). My research interests lie in large language models and interpretability, with a particular focus on understanding their internal mechanisms and building reliable, interpretable agents. I am currently applying for PhD positions in machine learning and large language models starting in 2028.
+I am a second year Master student at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn), working under the supervision of [Junjie Wang](https://junjiewangiscas.github.io/). Before that, I got my Bachelor degree at [Wuhan University of Technology](https://www.whut.edu.cn). My research interests lie in large language models and interpretability, with a particular focus on understanding their internal mechanisms and building reliable, interpretable agents. I am currently applying for PhD positions in machine learning and large language models starting in 2028.
 
 <style>
   .publication-item {
@@ -78,12 +78,16 @@ I am a first year Master student at the [Institute of Software, Chinese Academy 
   <!-- Right side -->
   <div class="publication-item__content">
     <h3 style="margin-top: 0;">
-      <a href="https://openreview.net/forum?id=mGlrAyVq38#discussion">
+      <a href="https://aclanthology.org/2026.acl-long.1363/">
         DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents
       </a>
     </h3>
     Yawen Wang, Yihan Dai, Jianming Chen, Junjie Wang, Qing Wang<br />
     ACL 2026<br />
-    <a href="https://openreview.net/forum?id=mGlrAyVq38#discussion">Webpage</a><br />
+    <a href="https://aclanthology.org/2026.acl-long.1363/">Webpage</a><br />
   </div>
 </div>
+
+## Service
+
+- Journal Reviewer: *Neurocomputing*
