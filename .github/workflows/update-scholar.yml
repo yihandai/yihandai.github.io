@@ -21,7 +21,7 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: pip install scholarly
+      run: pip install 'scholarly[proxy]'
 
     - name: Run scholar scraper
       run: python scripts/scholar.py

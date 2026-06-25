@@ -1,13 +1,27 @@
 import json
 import os
-import scholarly
+from scholarly import scholarly, ProxyGenerator
 
 SCHOLAR_ID = "evwzw60AAAAJ"
-OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "scholar_stats.json")
+OUTPUT_FILE = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "scholar_stats.json",
+)
+
 
 def main():
-    author = scholarly.scholarly.search_author_id(SCHOLAR_ID)
-    author = scholarly.scholarly.fill(author)
+    # Set up proxy to avoid being blocked by Google Scholar
+    pg = ProxyGenerator()
+    success = pg.FreeProxies()
+    if success:
+        scholarly.use_proxy(pg)
+        print("Proxy enabled")
+    else:
+        # Fallback: try without proxy
+        print("Warning: could not set up proxy, trying direct connection")
+
+    author = scholarly.search_author_id(SCHOLAR_ID)
+    author = scholarly.fill(author, sections=["indices"])
 
     stats = {
         "citedby": author.get("citedby", 0),
@@ -19,6 +33,7 @@ def main():
         json.dump(stats, f, indent=2)
 
     print(f"Updated scholar stats: {stats}")
+
 
 if __name__ == "__main__":
     main()
